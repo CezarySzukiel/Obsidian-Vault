@@ -1,0 +1,3 @@
+- połączenia z bazą danych
+- praca z plikami
+- print (jakiego rodzaju to side effect)

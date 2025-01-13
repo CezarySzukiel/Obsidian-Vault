@@ -1,0 +1,4 @@
+
+- [[Paradygmat funkcyjny]]
+- proceduralny
+- [[OOP]]
