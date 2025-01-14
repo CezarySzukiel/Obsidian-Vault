@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "5d31d3cc38696cd6",
+    "id": "add411ffcab26299",
     "type": "split",
     "children": [
       {
-        "id": "ed3631c70625fd39",
+        "id": "7807298ce28d6784",
         "type": "tabs",
         "children": [
           {
-            "id": "72dd7d4e6943d6b3",
+            "id": "bb2018d3643b901c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Accretion pattern.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Accretion pattern"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de823c69ad8136f6",
+    "id": "7b071514166a5e15",
     "type": "split",
     "children": [
       {
-        "id": "c01a0be4975693e1",
+        "id": "57a36cb1958cd072",
         "type": "tabs",
         "children": [
           {
-            "id": "7da6cfc490918431",
+            "id": "a9a46f7fb062d0f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +43,12 @@
             }
           },
           {
-            "id": "f133c9ec3c27d2f2",
+            "id": "003bf625e93f5893",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "singletone",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "28b9a6c7074c04f1",
+            "id": "fea6d08bc8967067",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,18 +73,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "796a8e9ad817c098",
+    "id": "27ab6727630d122c",
     "type": "split",
     "children": [
       {
-        "id": "1c7ec6c2169d0b68",
+        "id": "6944b488b4c0f231",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae8e4a1ac30d987",
+            "id": "38f2bb521ade6344",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +102,7 @@
             }
           },
           {
-            "id": "67a5b70a7d7ec42a",
+            "id": "894ecb6f01345649",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +115,7 @@
             }
           },
           {
-            "id": "6ab8f0dcd11e2368",
+            "id": "3cd7de13c2a043e0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,33 +128,23 @@
             }
           },
           {
-            "id": "ac6312c5bc600e39",
+            "id": "c2620dad1e0751b1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-07.md"
+                "file": "Witaj.md"
               },
               "icon": "lucide-list",
-              "title": "Zarys 2025-01-07"
-            }
-          },
-          {
-            "id": "798499be7a4b414d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Zarys Witaj"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 791.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,40 +153,21 @@
       "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "7da6cfc490918431",
+  "active": "bb2018d3643b901c",
   "lastOpenFiles": [
-    "Python/OOP.md",
-    "Python/Accretion pattern.md",
-    "Python/Witaj.md",
-    "Python",
-    "priv/Checklista SEO Strony internetowej.md",
-    "priv/checklista SEO Strony internetowej.md",
-    "priv/Bez nazwy.md",
-    "priv/stwórz łącze.md",
-    "priv/To Do.md",
-    "priv/Witaj.md",
-    "priv",
-    "Python/Plan zajęć.md",
-    "Python/Python.md",
-    "Python/Paradygmaty programowania.md",
-    "Priv/To Do.md",
-    "SEO",
-    "2025-01-07 Medic App plan.md",
-    "Priv",
-    "Python/Wyjątki.md",
-    "Python/singletone.md",
-    "Python/Logging.md",
-    "Logging",
-    "Python/Paradygmat funkcyjny.md",
-    "Python/side effect.md",
-    "2025-01-06.md",
-    "Programming rules/Zasady paradygmatu funkcyjnego.md",
-    "przykłady side efektów.md",
-    "Bez nazwy.canvas",
-    "Programming rules"
+    "OOP.md",
+    "side effect.md",
+    "singletone.md",
+    "Wyjątki.md",
+    "Accretion pattern.md",
+    "Plan zajęć.md",
+    "Python.md",
+    "Paradygmaty programowania.md",
+    "Paradygmat funkcyjny.md",
+    "Logging.md",
+    "Witaj.md"
   ]
 }

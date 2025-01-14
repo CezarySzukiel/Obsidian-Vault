@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "5d31d3cc38696cd6",
+    "id": "968f2fd30c52534e",
     "type": "split",
     "children": [
       {
-        "id": "ed3631c70625fd39",
+        "id": "a71157e08e8210ea",
         "type": "tabs",
         "children": [
           {
-            "id": "72dd7d4e6943d6b3",
+            "id": "051f0f99902f4882",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Accretion pattern.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Accretion pattern"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de823c69ad8136f6",
+    "id": "dca9e67523d8fe09",
     "type": "split",
     "children": [
       {
-        "id": "c01a0be4975693e1",
+        "id": "e321eb64229ef555",
         "type": "tabs",
         "children": [
           {
-            "id": "7da6cfc490918431",
+            "id": "98679d58e0dc4d81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +43,12 @@
             }
           },
           {
-            "id": "f133c9ec3c27d2f2",
+            "id": "074e28a54eef14ec",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "singletone",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "28b9a6c7074c04f1",
+            "id": "76642ca00364193f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,22 +73,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210.5
   },
   "right": {
-    "id": "796a8e9ad817c098",
+    "id": "5f7df9997e090353",
     "type": "split",
     "children": [
       {
-        "id": "1c7ec6c2169d0b68",
+        "id": "a380869eba2b6f3a",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae8e4a1ac30d987",
+            "id": "487cf96a18d037a1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +99,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne"
+              "title": "Łącza zwrotne do To Do"
             }
           },
           {
-            "id": "67a5b70a7d7ec42a",
+            "id": "183893a8b96792c1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące"
+              "title": "Linki wychodzące z To Do"
             }
           },
           {
-            "id": "6ab8f0dcd11e2368",
+            "id": "b753fa043b2ec11c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,33 +130,23 @@
             }
           },
           {
-            "id": "ac6312c5bc600e39",
+            "id": "98274565a4c8c489",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-07.md"
+                "file": "To Do.md"
               },
               "icon": "lucide-list",
-              "title": "Zarys 2025-01-07"
-            }
-          },
-          {
-            "id": "798499be7a4b414d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Zarys To Do"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 791.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,40 +155,18 @@
       "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "7da6cfc490918431",
+  "active": "051f0f99902f4882",
   "lastOpenFiles": [
-    "Python/OOP.md",
-    "Python/Accretion pattern.md",
-    "Python/Witaj.md",
-    "Python",
-    "priv/Checklista SEO Strony internetowej.md",
-    "priv/checklista SEO Strony internetowej.md",
-    "priv/Bez nazwy.md",
-    "priv/stwórz łącze.md",
-    "priv/To Do.md",
-    "priv/Witaj.md",
-    "priv",
-    "Python/Plan zajęć.md",
-    "Python/Python.md",
-    "Python/Paradygmaty programowania.md",
-    "Priv/To Do.md",
-    "SEO",
-    "2025-01-07 Medic App plan.md",
-    "Priv",
-    "Python/Wyjątki.md",
-    "Python/singletone.md",
-    "Python/Logging.md",
-    "Logging",
-    "Python/Paradygmat funkcyjny.md",
-    "Python/side effect.md",
-    "2025-01-06.md",
-    "Programming rules/Zasady paradygmatu funkcyjnego.md",
-    "przykłady side efektów.md",
-    "Bez nazwy.canvas",
-    "Programming rules"
+    "To Do.md",
+    "Rozmowa z P 15.01.md",
+    "Bez nazwy",
+    "seo_keywords.md",
+    "how_we_works.md",
+    "Checklista SEO Strony internetowej.md",
+    "Witaj.md",
+    "stwórz łącze.md"
   ]
 }

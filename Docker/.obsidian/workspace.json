@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5d31d3cc38696cd6",
+    "id": "a12ad4d93f049bd7",
     "type": "split",
     "children": [
       {
-        "id": "ed3631c70625fd39",
+        "id": "592d21c3f74bc58a",
         "type": "tabs",
         "children": [
           {
-            "id": "72dd7d4e6943d6b3",
+            "id": "be7f4e21bdbccf9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Accretion pattern.md",
+                "file": "Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accretion pattern"
+              "title": "Docker"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de823c69ad8136f6",
+    "id": "e69bed79ca0d801b",
     "type": "split",
     "children": [
       {
-        "id": "c01a0be4975693e1",
+        "id": "c30635d9a07c7781",
         "type": "tabs",
         "children": [
           {
-            "id": "7da6cfc490918431",
+            "id": "6362c74c41007c56",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "f133c9ec3c27d2f2",
+            "id": "98dd8ecb45614571",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "singletone",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "28b9a6c7074c04f1",
+            "id": "2b5cff97609e9723",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,22 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "796a8e9ad817c098",
+    "id": "b2de19a4c13c1a68",
     "type": "split",
     "children": [
       {
-        "id": "1c7ec6c2169d0b68",
+        "id": "541ab608447ca4ae",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae8e4a1ac30d987",
+            "id": "0d3b5f3619baa57e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne"
+              "title": "Łącza zwrotne do Docker"
             }
           },
           {
-            "id": "67a5b70a7d7ec42a",
+            "id": "b7a97800aa84e8a7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące"
+              "title": "Linki wychodzące z Docker"
             }
           },
           {
-            "id": "6ab8f0dcd11e2368",
+            "id": "a0307f3bf3b193fc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,33 +134,23 @@
             }
           },
           {
-            "id": "ac6312c5bc600e39",
+            "id": "508d619735a90b10",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-07.md"
+                "file": "Docker.md"
               },
               "icon": "lucide-list",
-              "title": "Zarys 2025-01-07"
-            }
-          },
-          {
-            "id": "798499be7a4b414d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Zarys Docker"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 791.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,40 +159,15 @@
       "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "7da6cfc490918431",
+  "active": "be7f4e21bdbccf9c",
   "lastOpenFiles": [
-    "Python/OOP.md",
-    "Python/Accretion pattern.md",
-    "Python/Witaj.md",
-    "Python",
-    "priv/Checklista SEO Strony internetowej.md",
-    "priv/checklista SEO Strony internetowej.md",
-    "priv/Bez nazwy.md",
-    "priv/stwórz łącze.md",
-    "priv/To Do.md",
-    "priv/Witaj.md",
-    "priv",
-    "Python/Plan zajęć.md",
-    "Python/Python.md",
-    "Python/Paradygmaty programowania.md",
-    "Priv/To Do.md",
-    "SEO",
-    "2025-01-07 Medic App plan.md",
-    "Priv",
-    "Python/Wyjątki.md",
-    "Python/singletone.md",
-    "Python/Logging.md",
-    "Logging",
-    "Python/Paradygmat funkcyjny.md",
-    "Python/side effect.md",
-    "2025-01-06.md",
-    "Programming rules/Zasady paradygmatu funkcyjnego.md",
-    "przykłady side efektów.md",
-    "Bez nazwy.canvas",
-    "Programming rules"
+    "Kontenery.md",
+    "Docker.md",
+    "VM.md",
+    "Zrzut ekranu z 2025-01-14 21-36-05.png",
+    "Witaj.md"
   ]
 }

@@ -1,0 +1,6 @@
+- [ ] Keywords short tail
+- [ ]  Keywords long tail
+- [ ]  favicon
+- [ ]  linkowanie wewnętrzne
+- [ ]  każda strona ma opis title i description
+- [ ]  NAP

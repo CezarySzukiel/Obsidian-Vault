@@ -1,0 +1,3 @@
+Paradygmaty programowania
+Logging
+Singletone
