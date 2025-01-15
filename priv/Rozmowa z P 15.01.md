@@ -9,4 +9,22 @@ https://www.linkedin.com/jobs/view/4084783956/?trackingId=&refId=&midToken=AQHqv
   wszędzie trzeba przesyłać plik z cv
   
   - mam problem z przedstawieniem siebie, z pokazaniem siebie jako wartościowego pracownika
+  - mam problem z wysławianiem się, często brakuje mi słowa
+
+### wnioski
+
+stronką się nie chwalić w takim stanie. jak już to poprawić błędy techniczne, zlikwidować przeładowywanie i zrobić ją z jakiejś templatki bo brzydka. wywalić ten śnieg. zlikwidować błędy z konsoli.
+
+cv - można wywalić wykształcenie, jak zapytają to mogę rzucić że skończyłem LO.
+poprawić wygląd CV, bo to tylko przykładowa templatka.
+
+ćwiczyć rozmowę. znaleźć kogoś cierpliwego do uczenia go np pythona, jak nie będzie rozumiał, to mogę się zastanowić co poprawić.
+
+rozmowy. nagrywać się, nie krępować się i sprawdzać co mogę poprawić.
+CV wysyłać jak najwięcej. w końcu coś się trafi.
+
+po feriach przypomnieć się, wysłać cv do poprawy na google drive.
+cv tylko po angielsku.
+
+
   
