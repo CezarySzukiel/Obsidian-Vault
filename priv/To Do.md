@@ -44,11 +44,11 @@
                     
                     - czy są jakieś wirtualne karty żeby ich oszukać?
                         
-                        - revolut (tutaj jest, tylko jak odblokować dane wirtualnej karty)
-                            
+                        - revolut (tutaj jest, tylko jak odblokować dane wirtualnej karty). nie przyjmuje karty
                         - curve
-                            
                         - paypal
+    - słowa kluczowe przygotowane
+    - sprawdzić i przestudiować niedociągnięcia z pomocą narzędzi
         
     
     ## oferta dla plazamed

@@ -11,14 +11,12 @@
             "id": "be7f4e21bdbccf9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
+                "file": "Zrzut ekranu z 2025-01-14 21-36-05.png"
               },
-              "icon": "lucide-file",
-              "title": "Docker"
+              "icon": "lucide-image",
+              "title": "Zrzut ekranu z 2025-01-14 21-36-05"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "Zrzut ekranu z 2025-01-14 21-36-05.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Łącza zwrotne do Docker"
+              "title": "Łącza zwrotne do Zrzut ekranu z 2025-01-14 21-36-05"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "Zrzut ekranu z 2025-01-14 21-36-05.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Linki wychodzące z Docker"
+              "title": "Linki wychodzące z Zrzut ekranu z 2025-01-14 21-36-05"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "Zrzut ekranu z 2025-01-14 21-36-05.png"
               },
               "icon": "lucide-list",
-              "title": "Zarys Docker"
+              "title": "Zarys Zrzut ekranu z 2025-01-14 21-36-05"
             }
           }
         ]
@@ -164,9 +162,9 @@
   },
   "active": "be7f4e21bdbccf9c",
   "lastOpenFiles": [
+    "VM.md",
     "Kontenery.md",
     "Docker.md",
-    "VM.md",
     "Zrzut ekranu z 2025-01-14 21-36-05.png",
     "Witaj.md"
   ]

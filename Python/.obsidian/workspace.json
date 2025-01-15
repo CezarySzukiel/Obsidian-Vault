@@ -11,10 +11,10 @@
             "id": "bb2018d3643b901c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nowa karta"
+              "icon": "lucide-git-fork",
+              "title": "Pokaż graf"
             }
           }
         ]

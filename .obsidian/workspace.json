@@ -11,14 +11,10 @@
             "id": "72dd7d4e6943d6b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Accretion pattern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accretion pattern"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Pokaż graf"
             }
           }
         ]
@@ -173,8 +169,8 @@
   },
   "active": "7da6cfc490918431",
   "lastOpenFiles": [
-    "Python/OOP.md",
     "Python/Accretion pattern.md",
+    "Python/OOP.md",
     "Python/Witaj.md",
     "Python",
     "priv/Checklista SEO Strony internetowej.md",
@@ -189,7 +185,7 @@
     "Python/Paradygmaty programowania.md",
     "Priv/To Do.md",
     "SEO",
-    "2025-01-07 Medic App plan.md",
+    "priv/2025-01-07 Medic App plan.md",
     "Priv",
     "Python/Wyjątki.md",
     "Python/singletone.md",

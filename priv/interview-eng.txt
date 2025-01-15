@@ -1,0 +1,89 @@
+About Me: 
+I really enjoy creating and improving working systems. It feels fulfilling to me, like building with LEGO blocks. I like automating tasks and take pleasure in knowing that I've made something functional and useful that I can then benefit from.
+
+I am highly committed to my work, as demonstrated by my quick promotion at NSK. And During the Python bootcamp at Coders Lab, I would spend entire days learning, even in my free time.
+
+I am always eager to help. I prefer not to blame others; instead, I calmly point out issues. For example, "You did it this way, and it resulted in that. What do you think about doing it differently?". 
+I avoid conflicts.
+
+I have a technical mindset, always striving to stay focused on my tasks, 
+and 
+I’m keen to learn new things.
+_____________________________________________________________________________
+
+Experience in Monitoring Systems and Problem-Solving: 
+Ironically, my experience in this area comes from a previous job, which wasn’t directly related to IT, but one of my main tasks was monitoring and problem solving. I worked as a machine setter and was responsible for ensuring that machines and production lines works correctly, minimizing downtime.
+
+Additionally, I had to monitor product parameters to ensure they were compliant with the standards.
+(similar to checking whether all functions of a program or application were working properly). 
+I was responsible for planning and implementing changes in the produced assortment so that production downtime was as minimal as possible.
+
+The tools we used for monitoring weren’t advanced; we had signal lights above machines that would flash red if a machine had an issue. But careful observation was crucial because not all stoppages triggered alarms. We also received feedback from machine operators about recurring problems.
+
+Apart from that, I often had to solve problems, such as lacking components needed at my stage of production or receiving substandard semi-finished products that made it challenging to maintain quality. Sometimes, changes in product type were made unexpectedly, requiring quick reactions.
+
+This was a 24/7 job with a three-shift system, so being on call won't scare me.
+_____________________________________________________________________________
+Problem-Solving Approach: 
+My approach depends on the problem and situation. 
+Sometimes a problem needs a quick fix, in which case I try to fix it quickly before addressing the root cause. In general, I analyze everything thoroughly and break down the situation to identify the problem's source. Half of solving a problem is name that problem. Then, I look for a solution, usually coming up with multiple options and choosing the best one.
+_____________________________________________________________________________
+Salary Expectation: 
+Based on my knowledge, salaries for similar roles range from 7,000 to 11,000 PLN per month gross. I propose around 8,000-9,000 PLN.
+_____________________________________________________________________________
+My Weaknesses:
+Sometimes, my sense of humor can be misunderstood by others.
+
+When tired, I may experience "mental sluggishness," reducing my productivity. I try to notice this and address it.
+
+I have something I call a "just one more" syndrome – it's a one more step in a process. I always want to do more, and more, and another one more. 
+it can also be a drawback. For example, in my previous job, I sometimes tried to improve things that didn’t need it, leading to unnecessary downtimes.
+_____________________________________________________________________________
+Handling Requests: 
+It depends on the issue:
+If the problem can be resolved quickly or answered easily, I help right away.
+If it requires more time, I note it down and let the person know when I can address it.
+If I'm working on something important, I make a note of it and say I'll deal with it later.
+If I'm doing something less urgent and a big issue arises, I drop what I'm doing and handle the new problem.
+_____________________________________________________________________________
+DevOps vs. Site Reliability Engineer (SRE): 
+The required technologies for both roles are similar. However, while DevOps focuses on implementing the application, SRE is responsible for monitoring the application's performance, tracking metrics, and improving processes, such as automating routine tasks. and amke sure the application works stable, without any problems
+_____________________________________________________________________________
+Docker vs. Virtual Machines (VM):
+Architecture: 
+VMs emulate a full physical computer, including the operating system and kernel, and run on a hypervisor that manages them. Containers share the host's kernel and only include the necessary dependencies to run the application.
+
+Isolation and Security: 
+VMs offer full isolation, making them more secure than containers.
+
+Resource Usage:
+VMs consume more disk space, RAM, and CPU, whereas containers are lighter.
+
+Use Cases: 
+VMs are suitable for running different operating systems on one machine or applications requiring complete OS isolation. Containers are ideal for microservices, pipelines, and cloud applications.
+_____________________________________________________________________________
+SRE Overview: Main Goals: 
+Ensuring system reliability, availability, and performance.
+
+Tasks:
+Monitoring and automating infrastructure to ensure high service availability.
+Defining and tracking Service Level Objectives (SLO) and Service Level Indicators (SLI).
+Responding to incidents and conducting post-incident analysis to prevent recurrence.
+Automating repetitive tasks to reduce manual work and increase system reliability.
+Practices: Using programming skills to solve infrastructure and operational problems while balancing new feature development with system reliability improvements.
+
+Tools and Technologies: Often uses tools like Prometheus, Grafana, Kubernetes, Terraform, and automation scripts.
+_____________________________________________________________________________
+The Most Challenging Project: 
+During the scrum course, when I was still new to Django, I decided to implement an additional feature. It was a task typically done on the front end, but I wanted to do it in Django. This required a deep understanding of how querysets work and applying that knowledge. So I spent hours thinking and trying to implement support for multiple form fields at once, depending on whether they were changed or not. At the same time, those form fields would display the existing informations.
+_____________________________________________________________________________
+Incident Severity (SEV) Levels:
+
+SEV 1: Critical incident with a major impact, such as data loss or service unavailability for all customers.
+SEV 2: Significant incident with considerable impact, such as partial unavailability or a failure in a critical function.
+SEV 3: Minor incident with little impact, causing small inconveniences for customers.
+_____________________________________________________________________________
+How I Handle Failures: 
+I dislike failures, but I accept that we're all human. When they happen, I see them as opportunities to learn from mistakes. Ideally, learning from others' mistakes is better, but it's not always possible.
+
+
