@@ -27,4 +27,16 @@ po feriach przypomnieć się, wysłać cv do poprawy na google drive.
 cv tylko po angielsku.
 
 
+  # plan:
   
+  1. poprawić cv
+	  1. wygląd, 
+	  2. tylko po angielsku
+	  3. zrobić jakoś żeby szybko je aktualizować.
+	  4. wywalić zainteresowania
+	  5. wywalić edukację
+	  6. jak będzie poprawione wysłać Pawłowi do sprawdzenia.
+	  7. 
+  2. wysyłać je hurtowo
+  3. ćwiczyć i nagrywać rozmowy.
+  4. dopiero później robić projekty.
