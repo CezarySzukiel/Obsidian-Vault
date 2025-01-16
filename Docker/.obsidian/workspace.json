@@ -11,12 +11,10 @@
             "id": "be7f4e21bdbccf9c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Zrzut ekranu z 2025-01-14 21-36-05.png"
-              },
-              "icon": "lucide-image",
-              "title": "Zrzut ekranu z 2025-01-14 21-36-05"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Pokaż graf"
             }
           }
         ]
@@ -162,10 +160,10 @@
   },
   "active": "be7f4e21bdbccf9c",
   "lastOpenFiles": [
-    "VM.md",
-    "Kontenery.md",
     "Docker.md",
+    "Kontenery.md",
     "Zrzut ekranu z 2025-01-14 21-36-05.png",
+    "VM.md",
     "Witaj.md"
   ]
 }

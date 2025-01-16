@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rozmowa z P 15.01.md",
+                "file": "interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rozmowa z P 15.01"
+              "title": "interview"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "051f0f99902f4882",
   "lastOpenFiles": [
-    "zoom.md",
-    "Rozmowa z P 15.01.md",
     "seo_keywords.md",
+    "Rozmowa z P 15.01.md",
+    "zoom.md",
     "how_we_works.md",
     "interview.md",
     "To Do.md",
