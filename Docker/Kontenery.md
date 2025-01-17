@@ -69,4 +69,8 @@ dlaczego niue trzyma się logów na tym samym serwerze co app;
 - inne zasoby są potrzebne do logów, więc używamy serwerów storageowych
 - bezpieczeństwo (jak zostanie zhakowana appka, to logi, bazy danych itp też)
 
+json path- wyszukiwanie w jsonie
+
+zmienne środowiskowe- nie są bezpieczne
+są secrets do takich rzeczy jak hasła do DB ale secrets są suppportowane przez docker compose (w D C są nieszyfrowane), więc lepiej docker swarm. tam są różne rodzaje secretów, w tym szyfrowane. ale tego się nie używa tylko k8s.
 

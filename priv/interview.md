@@ -1,21 +1,19 @@
 ## coś o sobie:
-bardzo lubię tworzyć i ulepszać działające systemy, czuję się w tym spełniony, to dla mnie jak budowanie z klocków lego. lubię sobie automatyzować pracę i cieszyć się z tego że zrobiłem coś działającego, przydatnego i mogę z tego korzystać.
 
+
+- jestem osobą ze umysłem technicznym, bardzo wszystko analizuję
 - zawsze angażuję się w swoją pracę, szczególnie wtedy gdy jest to coś nowego
-- zależy mi na jak dobrych efektach mojej pracy, nawet gdy po kilku latach praca stała się rutynowa i powtarzalna
+- zależy mi na dobrych efektach mojej pracy, nawet gdy po kilku latach praca stała się rutynowa i powtarzalna
   (wiadomo że po iluś latach człowiek zaczyna się wypalać, jednak nawet w takim momencie nie pozwalam sobie na to żeby zawodzić)
 - mam syndrom jeszcze jednej sztuki (jeśli mam kilka zadań, lub rozbiję sobie jedno większe na wiele małych, to odhaczanie kolejnych zadań traktuję jak nabijanie kolejnych leveli w grze, nigdy nie mam dosyć i trudno mi przestać)
 
 - bardzo chętnie pomagam. 
 - Lubię pracować w zespole, ale potrafię też pracować samodzielnie.
 - Nie lubię konfliktów, obwiniania, wolę znaleźć rozwiązanie, niż szukać winnego
-
-- jestem osobą ze umysłem technicznym, bardzo wszystko analizuję
 - Zwracam uwagę na szczegóły.
-
 - zwykle skupiam na swoim zadaniu, wręcz przestaję ogarniać co się dzieje wokół.
-
 - chętnie uczę się nowych rzeczy.
+- bardzo lubię tworzyć i ulepszać działające systemy, czuję się w tym spełniony, to dla mnie jak budowanie z klocków lego. lubię sobie automatyzować pracę i cieszyć się z tego że zrobiłem coś działającego, przydatnego i mogę z tego korzystać.
 
 
 
@@ -47,7 +45,7 @@ generalnie bardzo wszystko analizuję, i rozkładam zaistniałe sytuacje na czę
 _____________________________________
 ## STAWKA
 
-według mojej wiedzy zarobki na podobnych stanowiskach wachają się od 7 do 11 tysięcy pln/miesiąc brutto, więc moja propozycja to ok 8-9 tysięcy
+według mojej wiedzy zarobki na podobnych stanowiskach wahają się od 7 do 11 tysięcy pln/miesiąc brutto, więc moja propozycja to ok 8-9 tysięcy
 ______________________________________
 ## MOJE WADY
 czasem niezrozumiałe dla innych poczucie humoru

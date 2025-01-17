@@ -12,6 +12,7 @@ https://www.linkedin.com/jobs/view/4084783956/?trackingId=&refId=&midToken=AQHqv
   - mam problem z wysławianiem się, często brakuje mi słowa
 
 ### wnioski
+https://interviewing.io/mocks?language=python
 
 stronką się nie chwalić w takim stanie. jak już to poprawić błędy techniczne, zlikwidować przeładowywanie i zrobić ją z jakiejś templatki bo brzydka. wywalić ten śnieg. zlikwidować błędy z konsoli.
 
@@ -40,3 +41,7 @@ cv tylko po angielsku.
   2. wysyłać je hurtowo
   3. ćwiczyć i nagrywać rozmowy.
   4. dopiero później robić projekty.
+
+
+### Pytania do Pawła:
+- na pytanie co sprawiło mi największą trudność w danym zadaniu, jeśli odpowiem że w sumie to nic mi nie sprawiło tam większej trudności?

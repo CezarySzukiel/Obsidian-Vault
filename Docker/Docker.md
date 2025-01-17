@@ -28,6 +28,11 @@ docker stop + docker rm usuwa kontener
 
 docker stop nie zabija kontenera, tylko go zamraża, nie kasuje danych z warstwy readwrite
 docker restart używa docker stop i docker start
+
+docker prune - usuwa dunglingi - czyli takie które nie są powiązane z niczym
+
+docker rm -f $(ps -aq)
+docker rmi -f $(docker images -aq)
  
 
 ## CMD vs Entrypoint: 

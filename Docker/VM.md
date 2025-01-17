@@ -1,5 +1,5 @@
 
-wirtualne maszyny najczęściej terazużywane w EC2
+wirtualne maszyny najczęściej teraz używane w EC2
 
 Ansible pozwala na podstawi konfiguracji stawiać co się chce, ustawia wszystko sam.
 
