@@ -223,4 +223,78 @@ class Empleyee:
 ```
 metody klasy to technicznie to samo co atrybuty, ale z jakimś callable
 
- 
+
+# Ask for forgiveness rather than permission
+```python
+
+x = 0  
+if x != 0:  # ask for permission
+    print(10 / x)                     
+      
+try:                        # ask for forgiveness  
+    10 / x  
+except ZeroDivisionError:  
+    print("Division by zero")
+``` 
+
+super(). ... powoduje wywołanie tego co jest po kropce w klasie z której aktualna klasa dziedziczy
+
+czym się rózni kompozycja od dziedziczenia:
+dziedziczenie jest hierarchią, a kompozycja to przekazywanie jednych obiektów do innych obiektów
+
+kompozycja jest lepsza o dziedziczenia, daje więcej możliwości, więcej elastyczności
+
+vars(self) to \__dict__ obiektu
+
+słabe referencje ; służą do śledzenia obiektu  .... 
+
+jak działa lookup szukania pola obiektu w klasie:
+- najpierw przeszukuje data object descriptory
+- później sprawdza czy jest \__slots__
+- później instance attr:
+```python
+if name in vars(self)
+	return vars(self)[name]
+```
+- później nondata descriptor
+- później class attr:
+```python
+if cls-attr is not None
+	return cls-attr
+```
+- później sdzuka \_\_getattr__(self, name)
+- później AttriburteError
+![[Zrzut ekranu z 2025-01-19 10-05-11.png]]
+
+
+Atrybuty klas mogą być  metodami lub polami klasy
+
+data descriptior:
+ma dunder get + dunder set lub delete
+
+nondata descriptor:
+- ma tylko get
+
+jeśli używamy high level api (len(). repr(), str() itp.) to lookup szukania obiektu w klasie jest pomijany i idzie odrazu do.
+
+#### WeakKeyDictionary:
+tworzy słownik ze słabą referencją do obiektu. jeśłi obiekt zostanie zniszczony, to WKD zaczyna referować do None i nie utrzymuje obiektu przy życiu w pamięci![[Zrzut ekranu z 2025-01-19 10-29-02.png]]
+
+
+
+wirtualne dziedziczenie:
+issublass mówi że A jest podklasą B, ale w drzewie dziedziczenia A nie ma B. za to w A są metody z B
+
+(żeby dało się iterować, po x to x musi spełniać protokół iteratora, czyli posiadać dunder iter i next. to właśnie wirtualne dziedziczenie)
+wirtualne dziedziczenie, to inaczej gwarancja że spełnia się interfejs obiektu po którym się dziedziczy, ale nie dostaje się po tej klasie niczego.
+
+
+metaklasy są klasami które tworzą klasy.
+pozwalają zastosować metaprogramming - traktowanie kodu jako danych.
+
+
+Indenpotentność. funkcja może być indenpotetntna, jeśli obsługuje dowolny typ danych bez błędów (???) czy za każdym razem tak samo
+
+
+NotImplemented deleguje do dalszego przetwarzania,
+NotImplementedError rzuca błąd i kończy zabawę

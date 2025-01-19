@@ -56,3 +56,8 @@ Wt i Czw Classification
 
 ---
 Tags
+
+
+25-26 wolne
+pn 27, 31  20+ - pandas
+29 sr- 20-22 zajęcia z CV do tej pory zrobić cv na google drive i udostępnić Pawłowi (CV nie powinno być publiczne).
