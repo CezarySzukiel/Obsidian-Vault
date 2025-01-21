@@ -195,3 +195,25 @@ moja własna za darmo? najpierw sprawdzić
 # rozmowa kwalifikacyjna z ANT Solutions Kraków
 
 - umowa b2b
+- wymagane py, **SQL** (przypomnieć podstawy komend, coś o sqlAlchemy?(ORM))
+- SOLID? 
+- NoSQL (MongoDB)
+
+https://www.linkedin.com/jobs/view/4084783956/?trackingId=&refId=&midToken=AQHqvEGZ14ij9g&midSig=0KyGQOOjhRDHA1&trk=eml-email_jobs_job_application_viewed_01-applied_jobs-0-applied_job&trkEmail=eml-email_jobs_job_application_viewed_01-applied_jobs-0-applied_job-null-iwq4mp~m5qt2til~83-null-null&eid=iwq4mp-m5qt2til-83&otpToken=MTMwNDFhZTMxMTJiY2VjZGI3MjkwZmViNDExZGUxYjE4ZWM4ZDQ0OTliYTc4YTYyN2JjZjA2NmI0YzU5NTlmNGYwZDNkNmU5MWJjNWMyZjY2MjhlYzNhNTkxMjc1NTZlMzRlYjU1NzRiZTNhZTNkNjdmZGQ3MTliLDEsMQ%3D%3D
+
+# CV
+zmienić ustawienia, by generować pdf jako jedną stronę
+
+uzupełnić linkedin, zoptymalizować pod kątem słów kluczowych
+- okreśłić jaki problem mogę rozwiązać dla pracodawcy.
+- podsumowanie, które może powie coś więcej niż tylko wymienienie kompetencji miękkich?
+- w cv pokazać osiągnięcia?
+
+
+
+# na teraz
+- cv
+- przypomnieć się doktorkowi
+	- jakiś formularz co do wyboru wyglądu strony internetowej?
+- ćwiczyć rozmowę
+- dodzwonić się do tej adwokatki

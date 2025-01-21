@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rozmowa z P 15.01.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rozmowa z P 15.01"
+              "title": "To Do"
+            }
+          },
+          {
+            "id": "3262c69676f76a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,14 +177,15 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "051f0f99902f4882",
+  "active": "3262c69676f76a39",
   "lastOpenFiles": [
-    "interview.md",
+    "ANT Solutions.md",
+    "__INTERWIEW__.md",
+    "To Do.md",
     "Rozmowa z P 15.01.md",
     "seo_keywords.md",
     "zoom.md",
     "how_we_works.md",
-    "To Do.md",
     "exercises.md",
     "interview-eng.txt",
     "Bez nazwy",

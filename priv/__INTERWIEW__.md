@@ -14,6 +14,7 @@
 - zwykle skupiam na swoim zadaniu, wręcz przestaję ogarniać co się dzieje wokół.
 - chętnie uczę się nowych rzeczy.
 - bardzo lubię tworzyć i ulepszać działające systemy, czuję się w tym spełniony, to dla mnie jak budowanie z klocków lego. lubię sobie automatyzować pracę i cieszyć się z tego że zrobiłem coś działającego, przydatnego i mogę z tego korzystać.
+- #### zaangażowanie
 
 
 
